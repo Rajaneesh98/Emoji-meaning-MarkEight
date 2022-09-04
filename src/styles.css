@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input-el {
+  height: 50px;
+  width: 50vw;
+}
+
+.emojiMean {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.emoji {
+  display: inline;
+  margin: 20px;
+  font-size: 40px;
+}
+
+.input-emoji {
+  font-size: 80px;
+}
