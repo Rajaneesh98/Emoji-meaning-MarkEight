@@ -3,16 +3,17 @@ import { useState } from "react";
 
 const emojiDictionary = {
   "😊": "Smiling",
-  "😳": "disbelief",
-  "😔": "sad",
+  "🍛": "curry rice",
   "🥡": "takeout box",
-  "❤️": "love",
-  "😑": "annoyance",
+  "🎃":"Halloween",
   "🧗": "Person Climbing",
-  "🏇": "Horse Riding",
+  "🍝": "sapghetti",
+   "😑": "annoyance",
   "🚣": "RowBoat",
+  "😳": "disbelief",
   "🙈": "See-No_evil",
-  "🥭": "Tropical Living"
+  "🥭": "Tropical Living",
+  "😔": "sad",
 };
 
 var emojiList = Object.keys(emojiDictionary);
